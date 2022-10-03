@@ -66,3 +66,12 @@ L’artesapp va néixer amb la idea de ser el punt de partida d’una aplicació
 - npm run watch
 - http://127.0.0.1:8000/
 
+## Run
+- cd artesapp
+- php artisan serve
+- npm run watch
+- http://127.0.0.1:8000/
+- role admin: admin@gmail.com 1234
+- role user: user@gmail.com
+- or http://127.0.0.1:8000/register
+
