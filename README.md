@@ -12,20 +12,19 @@ L’artesapp va néixer amb la idea de ser el punt de partida d’una aplicació
 
 - Aplicació amb una interfície neta, clara, visual, accessible i adaptable gràcies a biblioteques com Bootstrap.
 
-- Aplicació amb les següent funcionalitats:
-+ Registre i Login
-+ Rols d’usuari (admin i user)
-+ Perfil d’usuari
-+ Gestió de categories
-+ Gestió de productes
-+ Gestió de clients
-+ Gestió de comandes
-+ Seguretat
-+ Tokens d’accés per rol usuari
-+ Protecció de rutes
-+ Encriptació de contrasenyes
-+ Robust a SQL injection
-+ Aplicació programada en PHP i Javascript, multiplataforma i portable
+- Registre i Login
+- Rols d’usuari (admin i user)
+- Perfil d’usuari
+- Gestió de categories
+- Gestió de productes
+- Gestió de clients
+- Gestió de comandes
+- Seguretat
+- Tokens d’accés per rol usuari
+- Protecció de rutes
+- Encriptació de contrasenyes
+- Robust a SQL injection
+- Aplicació programada en PHP i Javascript, multiplataforma i portable
 
 ## Requeriments
 
