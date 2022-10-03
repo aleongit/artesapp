@@ -1,16 +1,10 @@
 # L'artesapp
 
-SPA API REST per la gestió d’un obrador artesanal, desenvolupada amb Laravel i Vue amb autentificació Passport OAuth2 i maquetació Bootstrap.
+Exemple d'SPA API REST per la gestió d’un obrador artesanal, desenvolupada amb Laravel i Vue amb autentificació Passport OAuth2 i maquetació Bootstrap.
 
 ## Descripció
 
-Presentem el projecte de L’Artesapp, l’aplicació web resultant final del projecte de síntesis.
-
-Projecte iniciat en base una idea inicial, planificada, analitzada, dissenyada, implementada, programada, provada, depurada, instal·lada, desplegada i documentada.
-
-L’artesapp va néixer amb la idea de ser el punt de partida d’una aplicació per a gestionar petits obradors artesanals i dedicats al sector d’alimentació o producte de proximitat, partint de la meva experiència en gestionar una formatgeria artesanal.
-
-El resultat final d’aquest projecte és el següent:
+L’artesapp va néixer amb la idea de ser el punt de partida d’una aplicació per a gestionar petits obradors artesanals i dedicats al sector d’alimentació o producte de proximitat.
 
 - Aplicació d’una sola pàgina SPA, carregant un sol document i només recarregant la part que necessiti actualitzar-se, oferint millor velocitat, rendiment i experiència a l’usuari que les clàssiques pàgines de Server-side rendering SSR.
 
@@ -19,19 +13,19 @@ El resultat final d’aquest projecte és el següent:
 - Aplicació amb una interfície neta, clara, visual, accessible i adaptable gràcies a biblioteques com Bootstrap.
 
 - Aplicació amb les següent funcionalitats:
-. Registre i Login
-. Rols d’usuari (admin i user)
-. Perfil d’usuari
-. Gestió de categories
-. Gestió de productes
-. Gestió de clients
-. Gestió de comandes
-. Seguretat
-. Tokens d’accés per rol usuari
-. Protecció de rutes
-. Encriptació de contrasenyes
-. Robust a SQL injection
-. Aplicació programada en PHP i Javascript, multiplataforma i portable, el qual ho demostra el fet d’haver estat desenvolupada en un entorn local Windows i després desplegada en un entorn virtual Linux funcionant sota servidor Web i certificat SSL.
+* Registre i Login
+* Rols d’usuari (admin i user)
+* Perfil d’usuari
+* Gestió de categories
+* Gestió de productes
+* Gestió de clients
+* Gestió de comandes
+* Seguretat
+* Tokens d’accés per rol usuari
+* Protecció de rutes
+* Encriptació de contrasenyes
+* Robust a SQL injection
+* Aplicació programada en PHP i Javascript, multiplataforma i portable
 
 ## Requeriments
 
