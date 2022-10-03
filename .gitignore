@@ -1,5 +1,7 @@
 /node_modules
-/public
+/public/fontawesome-free
+/public/img
+/public/js
 /storage/*.key
 /vendor
 .env
