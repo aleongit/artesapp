@@ -1,0 +1,133 @@
+body {
+    /*background-image: linear-gradient(180deg, #eee, #fff 100px, #fff);*/
+    background-color: #fdfdfd;
+    font-family: monospace;
+}
+
+/*per defecte és none*/
+.invalid-feedback {
+    display: inline-block;
+}
+
+.h-50px {
+    height: 50px;
+}
+
+.spinner-border {
+    width: 1rem;
+    height: 1rem;
+}
+
+.nota {
+    background-color: lemonchiffon;
+}
+
+mark {
+    font-weight: bolder;
+}
+
+.form-control:disabled, .form-select:disabled {
+    background-color: white;
+    opacity: 0.5;
+}
+
+.breadcrumb-item.active, .nav-link.active {
+    color: black;
+    font-weight: bolder;
+}
+
+/*
+.modal-header-detall {
+    justify-content: flex-start;
+}
+*/
+
+.missatge {
+    margin-left: 0;
+    opacity: 1;
+    animation-name: missatge;
+    animation-duration: 5s;
+}
+@keyframes missatge {
+    from {
+        margin-left: 100px;
+        opacity: 0;}
+    to {
+        margin-left: 0;
+        opacity: 1;}
+  }
+
+/*per fer que surti flash message per sobre de modal bootstrap*/
+._vue-flash-msg-body {
+    z-index: 10000000 !important;
+    }
+
+.tomato {
+
+    transform: rotate(0deg);
+    transition: transform 1s;
+    animation-name: tomato;
+    animation-duration: 4s;
+    animation-iteration-count: 1;
+    }
+    
+.tomato:hover {
+transform: rotate(360deg);
+}
+@keyframes tomato {
+0% {transform: rotate(0deg);}
+50% {transform: rotate(360deg);}
+100% {transform: rotate(0deg);}
+}
+
+.artesapp {
+    opacity: 1;
+    padding: 0;
+    font-size: 3.5rem;
+    line-height: 3.5rem;
+    animation-name: artesapp;
+    animation-duration: 4s;
+}
+@keyframes artesapp {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+
+.aleon {
+    opacity: 1;
+    padding: 0;
+    font-size: 3rem;
+    line-height: 0.5rem;
+    animation-name: aleon;
+    animation-duration: 4s;
+}
+@keyframes aleon {
+    0% {
+        opacity: 0;
+        font-size: 3rem;
+    }
+    50% {
+        opacity: 0;
+        font-size: 3rem;
+    }
+
+    80% {
+        opacity: 1;
+        font-size: 3rem;
+    }
+
+    90% {
+        opacity: 1;
+        font-size: 3.5rem;
+    }
+    100% {
+        opacity: 1;
+        font-size: 3rem;
+    }
+}
+
+.progress {
+    font-size: 1rem;
+    margin: 0.25rem 0;
+    height: 2rem;
+}
