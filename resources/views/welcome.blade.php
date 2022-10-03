@@ -14,8 +14,16 @@
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
 
-        <!-- icones awesome v5 -->
-        <link rel="stylesheet" href="{{asset('fontawesome-free/css/all.min.css')}}">
+        <!-- Font Awesome -->
+        <link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+        />
+        <script
+        src="https://kit.fontawesome.com/af74c6d29b.js"
+        crossorigin="anonymous"
+        >
+        </script>
 
         <!--estils dins vue app.css-->
         <link rel="stylesheet" href="{{asset('css/app.css')}}">
