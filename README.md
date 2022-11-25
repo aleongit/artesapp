@@ -61,7 +61,6 @@ L’artesapp va néixer amb la idea de ser el punt de partida d’una aplicació
 - php artisan passport:install
 - php artisan storage:link
 - npm install && npm run dev
-- npm run watch
 - php artisan serve
 - npm run watch
 - http://127.0.0.1:8000/
