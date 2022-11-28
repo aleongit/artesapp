@@ -74,3 +74,25 @@ L’artesapp va néixer amb la idea de ser el punt de partida d’una aplicació
 - role user: user@gmail.com 1234
 - or http://127.0.0.1:8000/register
 
+
+![Screenshot](screenshots/1.png)
+
+![Screenshot](screenshots/2.png)
+
+![Screenshot](screenshots/3.png)
+
+![Screenshot](screenshots/4.png)
+
+![Screenshot](screenshots/5.png)
+
+![Screenshot](screenshots/6.png)
+
+![Screenshot](screenshots/7.png)
+
+![Screenshot](screenshots/8.png)
+
+![Screenshot](screenshots/9.png)
+
+![Screenshot](screenshots/10.png)
+
+![Screenshot](screenshots/11.png)
